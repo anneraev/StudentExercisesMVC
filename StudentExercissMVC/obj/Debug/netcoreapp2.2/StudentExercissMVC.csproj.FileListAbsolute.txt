@@ -32,3 +32,7 @@ C:\Users\tonyr\31backend\StudentExercissMVC\StudentExercissMVC\obj\Debug\netcore
 C:\Users\tonyr\31backend\StudentExercissMVC\StudentExercissMVC\obj\Debug\netcoreapp2.2\Razor\Views\Students\Details.g.cshtml.cs
 C:\Users\tonyr\31backend\StudentExercissMVC\StudentExercissMVC\obj\Debug\netcoreapp2.2\Razor\Views\Students\Edit.g.cshtml.cs
 C:\Users\tonyr\31backend\StudentExercissMVC\StudentExercissMVC\obj\Debug\netcoreapp2.2\Razor\Views\Students\Delete.g.cshtml.cs
+C:\Users\tonyr\31backend\StudentExercissMVC\StudentExercissMVC\obj\Debug\netcoreapp2.2\Razor\Views\Cohorts\Index.g.cshtml.cs
+C:\Users\tonyr\31backend\StudentExercissMVC\StudentExercissMVC\obj\Debug\netcoreapp2.2\Razor\Views\Cohorts\Details.g.cshtml.cs
+C:\Users\tonyr\31backend\StudentExercissMVC\StudentExercissMVC\obj\Debug\netcoreapp2.2\Razor\Views\Cohorts\Edit.g.cshtml.cs
+C:\Users\tonyr\31backend\StudentExercissMVC\StudentExercissMVC\obj\Debug\netcoreapp2.2\Razor\Views\Cohorts\Delete.g.cshtml.cs
